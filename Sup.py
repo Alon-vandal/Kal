@@ -1,11 +1,35 @@
 import os
 
+print("""'       _,.                   '
+     '     ,` -.)                  '
+     '    ( _/-\-._               '
+     '   /,|`--._,-^|            , '
+     '   \_| |`-._/||          , | '
+     '     |  `-, / |         /  / '
+     '     |     || |        /  /  '
+     '      `r-._||/   __   /  /   '
+     '  __,-<_     )`-/  `./  /    '
+     '  \   `---    \   / /  /     '
+     '     |           |./  /      '
+     '     /           //  /       '
+     ' \_/  \         |/  /        '
+     '  |    |   _,^- /  /         '
+     '  |    , ``  (\/  /_         '
+     '   \,.->._    \X-=/^         '
+     '   (  /   `-._//^`           '
+     '    `Y-.____(__}             '
+     '     |     {__)              '
+     '           ()                '
+
+
+""")
+print("im mr andel death or alone vandal or yousef cherick")
 def display_menu():
     print("Select the desired option:")
-    print("1 - Bomber")
-    print("2 - Download YouTube")
-    print("3 - DDoS")
-    print("4 - Facebook Downloader")
+    print("1 - Bomber🧨")
+    print("2 - Download YouTube⬇️📽")
+    print("3 - DDoS☠️")
+    print("4 - Facebook Downloader📲")
     
 
 def run_script(choice):
